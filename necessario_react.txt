@@ -1,0 +1,25 @@
+React é uma biblioteca usada para criar interfaces de usuários interativas
+
+Por que aprender React?
+	Desenvolvida pelo facebook (Meta)
+
+	Aprenda uma vez, use em qualquer lugar
+		IOS e Android (React native) e Desktop (Electron)
+
+	É a tecnologia mais demandada pelo mercado atualmente
+		É praticamente o padrão da indústria quando o assunto é criação de aplicações web.
+
+	Utilizada por empresas multibilionárias (Face, linkedin, spotify, netflix)
+
+Componentes
+	No React, dividimos a aplicação em pequenos componentes.
+
+	Vários componentes, quando combinados, formam grandes estruturas.	
+	
+	Usamos JSX para escrevê-lo
+
+
+Vantagens de SPAs
+	Velocidade de navegação entre páginas é muito mais rápido, pois não exige chamadas para um servidor.
+
+	Experiência do usuários: SPAs são altamente interativas e perfomáticas.

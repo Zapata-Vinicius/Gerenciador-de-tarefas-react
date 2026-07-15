@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import AddTask from "./components/AddTask";
 import Tasks from "./components/Tasks";
 import { v4 as uuidv4 } from "uuid";
-import Title from "./components/Title";
+import Title from "./components/title";
 
 function App() {
   const [tasks, setTasks] = useState(() => {
